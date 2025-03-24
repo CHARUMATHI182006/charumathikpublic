@@ -1,0 +1,31 @@
+.mainDiv {
+    margin: 10%;
+    margin-top: 1%;
+}
+.productDiv {
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 2%;
+}
+.thumbNail {
+    position: absolute;
+    opacity: 0.7;
+    width: 13%;
+    top: 30%;
+    left: 44%;
+    border-radius: 44%;
+}
+.cardsDiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.video {
+    width: -webkit-fill-available;
+}
+.contactDiv {
+    font-size: larger;
+}
+.noteDiv {
+    color: firebrick;
+}

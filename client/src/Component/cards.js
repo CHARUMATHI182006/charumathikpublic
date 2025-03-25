@@ -5,7 +5,7 @@ import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 import { CardActionArea } from '@mui/material';
 // import playButton from '../Assets/playButton.jpg';
-import "../style/main.css";
+import "../style/main.cs";
 
 export default function ActionAreaCard(value) {
   return (
